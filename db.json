@@ -21,17 +21,27 @@
 {"id":19,"serial_number":282,"start_date":"13.03.2022","company_name":"Brainbox","item_name":"Wine - German Riesling","status":"In Assembly","end_date":"03.11.2022","deadline":4},
 {"id":20,"serial_number":109,"start_date":"17.11.2021","company_name":"Realbuzz","item_name":"Juice Peach Nectar","status":"Paid","end_date":"20.01.2022","deadline":46}
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+  "assembly": [
+{"id":1,"orders_id":20,"assembly_start_date":"01.07.2021","item_name":"Mousse - Mango","store_qty":17,"status":"In Assembly","assembly_end_date":"21.07.2022","deadline":10},
+{"id":2,"orders_id":107,"assembly_start_date":"04.03.2022","item_name":"Caviar - Salmon","store_qty":6,"status":"In Assembly","assembly_end_date":"23.07.2022","deadline":38},
+{"id":3,"orders_id":200,"assembly_start_date":"13.04.2021","item_name":"Wine - Fontanafredda Barolo","store_qty":8,"status":"Assembled","assembly_end_date":"23.10.2022","deadline":22,"comments":"odio porttitor id"},
+{"id":4,"orders_id":161,"assembly_start_date":"20.05.2022","item_name":"Mini - Vol Au Vents","store_qty":16,"status":"In Assembly","assembly_end_date":"23.04.2022","deadline":17,"comments":"a suscipit nulla"},
+{"id":5,"orders_id":194,"assembly_start_date":"27.01.2022","item_name":"Wine - Barossa Valley Estate","store_qty":11,"status":"Cancelled","assembly_end_date":"20.02.2022","deadline":2},
+{"id":6,"orders_id":181,"assembly_start_date":"03.03.2021","item_name":"Island Oasis - Mango Daiquiri","store_qty":11,"status":"Cancelled","assembly_end_date":"21.03.2022","deadline":14,"comments":"aliquam convallis nunc proin at turpis a pede"},
+{"id":7,"orders_id":71,"assembly_start_date":"21.01.2021","item_name":"Pork Loin Bine - In Frenched","store_qty":2,"status":"Cancelled","assembly_end_date":"05.12.2022","deadline":38},
+{"id":8,"orders_id":20,"assembly_start_date":"11.10.2022","item_name":"Tomato - Peeled Italian Canned","store_qty":7,"status":"In Assembly","assembly_end_date":"04.02.2022","deadline":40,"comments":"aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed"},
+{"id":9,"orders_id":2,"assembly_start_date":"01.02.2021","item_name":"Rappini - Andy Boy","store_qty":16,"status":"Shipped","assembly_end_date":"06.03.2022","deadline":15,"comments":"dapibus duis at velit eu est"},
+{"id":10,"orders_id":126,"assembly_start_date":"07.08.2022","item_name":"Sauce - Balsamic Viniagrette","store_qty":20,"status":"In Assembly","assembly_end_date":"03.03.2022","deadline":7,"comments":"ipsum aliquam non mauris morbi non lectus"},
+{"id":11,"orders_id":145,"assembly_start_date":"24.09.2021","item_name":"Sauce - Soya, Light","store_qty":12,"status":"Cancelled","assembly_end_date":"11.11.2022","deadline":2,"comments":"velit donec diam"},
+{"id":12,"orders_id":3,"assembly_start_date":"21.10.2022","item_name":"Coffee - Decaffeinato Coffee","store_qty":18,"status":"Assembled","assembly_end_date":"19.06.2022","deadline":9},
+{"id":13,"orders_id":153,"assembly_start_date":"27.12.2021","item_name":"Lemonade - Strawberry, 591 Ml","store_qty":17,"status":"Assembled","assembly_end_date":"08.10.2022","deadline":2},
+{"id":14,"orders_id":198,"assembly_start_date":"29.06.2022","item_name":"Potatoes - Instant, Mashed","store_qty":15,"status":"In Assembly","assembly_end_date":"07.09.2022","deadline":32},
+{"id":15,"orders_id":85,"assembly_start_date":"14.09.2022","item_name":"Tamarillo","store_qty":15,"status":"In Assembly","assembly_end_date":"04.07.2022","deadline":19,"comments":"pulvinar lobortis est phasellus sit"},
+{"id":16,"orders_id":46,"assembly_start_date":"15.11.2021","item_name":"Butter - Salted","store_qty":15,"status":"In Assembly","assembly_end_date":"15.06.2022","deadline":37},
+{"id":17,"orders_id":141,"assembly_start_date":"13.09.2021","item_name":"Cheese - Augre Des Champs","store_qty":17,"status":"Assembled","assembly_end_date":"20.02.2022","deadline":27,"comments":"dui vel sem sed sagittis nam congue risus"},
+{"id":18,"orders_id":17,"assembly_start_date":"25.11.2021","item_name":"Soup - Base Broth Beef","store_qty":2,"status":"Cancelled","assembly_end_date":"16.08.2022","deadline":37},
+{"id":19,"orders_id":34,"assembly_start_date":"06.06.2021","item_name":"Wine - Two Oceans Sauvignon","store_qty":0,"status":"Assembled","assembly_end_date":"20.07.2022","deadline":8,"comments":"dui proin leo odio porttitor id"},
+{"id":20,"orders_id":72,"assembly_start_date":"02.06.2022","item_name":"Rice - Basmati","store_qty":18,"status":"Assembled","assembly_end_date":"04.06.2022","deadline":20}
   ],
   "profile": {
     "name": "typicode"
